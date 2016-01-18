@@ -1,0 +1,1 @@
+C:\ProjectsGit\ExcelSqlIntegration2\src\IntegrationApp\bin\Debug\IntegrationApp.exe.config
