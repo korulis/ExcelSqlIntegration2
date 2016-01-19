@@ -1,6 +1,7 @@
 C:\ProjectsGit\ExcelSqlIntegration2\src\IntegrationApp\bin\Debug\IntegrationApp.exe.config
 C:\ProjectsGit\ExcelSqlIntegration2\src\IntegrationApp\bin\Debug\IntegrationApp.exe
 C:\ProjectsGit\ExcelSqlIntegration2\src\IntegrationApp\bin\Debug\IntegrationApp.pdb
+C:\ProjectsGit\ExcelSqlIntegration2\src\IntegrationApp\bin\Debug\DocumentFormat.OpenXml.dll
 C:\ProjectsGit\ExcelSqlIntegration2\src\IntegrationApp\obj\Debug\MainWindow.g.cs
 C:\ProjectsGit\ExcelSqlIntegration2\src\IntegrationApp\obj\Debug\App.g.cs
 C:\ProjectsGit\ExcelSqlIntegration2\src\IntegrationApp\obj\Debug\IntegrationApp_MarkupCompile.cache
@@ -11,4 +12,3 @@ C:\ProjectsGit\ExcelSqlIntegration2\src\IntegrationApp\obj\Debug\IntegrationApp.
 C:\ProjectsGit\ExcelSqlIntegration2\src\IntegrationApp\obj\Debug\IntegrationApp.csproj.GenerateResource.Cache
 C:\ProjectsGit\ExcelSqlIntegration2\src\IntegrationApp\obj\Debug\IntegrationApp.exe
 C:\ProjectsGit\ExcelSqlIntegration2\src\IntegrationApp\obj\Debug\IntegrationApp.pdb
-C:\ProjectsGit\ExcelSqlIntegration2\src\IntegrationApp\obj\Debug\IntegrationApp.csprojResolveAssemblyReference.cache
